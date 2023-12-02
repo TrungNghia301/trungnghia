@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm JT</h1>
 <h3 align="center">A developer from Vietnam</h3>
 <img align ="right" alt="Coding" width="400"  src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: nghiatrung.swd.301@gmail.com</h3>
 <p align="left">
 </p>
 
