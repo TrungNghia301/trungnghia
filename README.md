@@ -14,7 +14,7 @@
 <h3 align="left">HackerRank:https://www.hackerrank.com/profile/nghiatrung_swd_1</h3>
 <h3 align="left">________________________________________________________</h3>
 <h3 align="left"> Certificate:</h3>
-<h3 align="left"> C# (Basic) Certificate:https://www.hackerrank.com/certificates/iframe/abb8b4c3aab9 </h3>
+<h3 align="left"> C# (Basic) Certificate: https://www.hackerrank.com/certificates/abb8b4c3aab9</h3>
 
 
 https://github.com/TrungNghia301/TrungNghia301/assets/119547515/594e05d2-dd28-416e-a336-ceb04be31bc4
