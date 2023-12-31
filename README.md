@@ -24,10 +24,10 @@ A developer from Vietnam
 
 ## Certificates
 
-- C# (Basic) Certificate (HackerRank): [View Certificate](https://www.hackerrank.com/certificates/abb8b4c3aab9)
-- SQL (Basic) Certificate (HackerRank): [View Certificate](https://www.hackerrank.com/certificates/9ad9f2de2f0e)
-- Introduction to Python (DataCamp)  : [View Certificate](https://www.datacamp.com/statement-of-accomplishment/course/23ec85fcb2c94305f13919a76a64e68194974b48?raw=1)
-- Intermediate Python (DataCamp)     : [View Certificate](https://www.datacamp.com/statement-of-accomplishment/course/9a8ec3d103fdcf689186fdf5900e3948d755f3be?raw=1)
+- C# (Basic) Certificate (HackerRank)__: [View Certificate](https://www.hackerrank.com/certificates/abb8b4c3aab9)
+- SQL (Basic) Certificate (HackerRank)_: [View Certificate](https://www.hackerrank.com/certificates/9ad9f2de2f0e)
+- Introduction to Python (DataCamp)____: [View Certificate](https://www.datacamp.com/statement-of-accomplishment/course/23ec85fcb2c94305f13919a76a64e68194974b48?raw=1)
+- Intermediate Python (DataCamp)_______: [View Certificate](https://www.datacamp.com/statement-of-accomplishment/course/9a8ec3d103fdcf689186fdf5900e3948d755f3be?raw=1)
 ---
 
 ## Thank You For Reading!
