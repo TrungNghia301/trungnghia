@@ -1,6 +1,7 @@
-# Hi 👋, I'm JT 😎
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
-A developer from Vietnam
+## Hi 👋, I'm JT , A developer from Vietnam
+
 
 ## Connect with me: 
 - Email: nghiatrung.swd.301@gmail.com
