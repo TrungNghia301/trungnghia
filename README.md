@@ -6,6 +6,7 @@
 ## Connect with me: 
 - Email: nghiatrung.swd.301@gmail.com
 - HackerRank: [HackerRank Profile](https://www.hackerrank.com/profile/nghiatrung_swd_1)
+- leetcode: [leetcode Profile](https://leetcode.com/u/trungnghia301/)
 
 ---
 
