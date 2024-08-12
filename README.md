@@ -29,6 +29,7 @@
 - C# (Basic) Certificate (HackerRank): [View Certificate](https://www.hackerrank.com/certificates/abb8b4c3aab9)
 
 - SQL (Basic) Certificate (HackerRank): [View Certificate](https://www.hackerrank.com/certificates/9ad9f2de2f0e)
+- SQL (Advanced) Certificate (HackerRank): [View Certificate](https://www.hackerrank.com/certificates/d251a6089f23)
 
 - Introduction to Python (DataCamp): [View Certificate](https://www.datacamp.com/statement-of-accomplishment/course/23ec85fcb2c94305f13919a76a64e68194974b48?raw=1)
 
