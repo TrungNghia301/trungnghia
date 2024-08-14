@@ -36,6 +36,8 @@
 - Introduction to Python (DataCamp): [View Certificate](https://www.datacamp.com/statement-of-accomplishment/course/23ec85fcb2c94305f13919a76a64e68194974b48?raw=1)
 
 - Intermediate Python (DataCamp): [View Certificate](https://www.datacamp.com/statement-of-accomplishment/course/9a8ec3d103fdcf689186fdf5900e3948d755f3be?raw=1)
+- Data Manipulation with pandas (DataCamp): [View Certificate](https://www.datacamp.com/statement-of-accomplishment/course/f7592de3baacfe42005a0ca25788d31693701ec1?raw=1)
+
 
 
 
