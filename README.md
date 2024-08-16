@@ -24,7 +24,7 @@
 
 ---
 
-## Certificates
+## Certificates/Accomplishment
 
 
 - C# (Basic) Certificate (HackerRank): [View Certificate](https://www.hackerrank.com/certificates/abb8b4c3aab9)
