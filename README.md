@@ -28,13 +28,10 @@
 
 
 - C# (Basic) Certificate (HackerRank): [View Certificate](https://www.hackerrank.com/certificates/abb8b4c3aab9)
-
 - SQL (Basic) Certificate (HackerRank): [View Certificate](https://www.hackerrank.com/certificates/9ad9f2de2f0e)
 - SQL (Intermediate) Certificate (HackerRank): [View Certificate](https://www.hackerrank.com/certificates/d440627d968f)
 - SQL (Advanced) Certificate (HackerRank): [View Certificate](https://www.hackerrank.com/certificates/d251a6089f23)
-
 - Introduction to Python (DataCamp): [View Certificate](https://www.datacamp.com/statement-of-accomplishment/course/23ec85fcb2c94305f13919a76a64e68194974b48?raw=1)
-
 - Intermediate Python (DataCamp): [View Certificate](https://www.datacamp.com/statement-of-accomplishment/course/9a8ec3d103fdcf689186fdf5900e3948d755f3be?raw=1)
 - Data Manipulation with pandas (DataCamp): [View Certificate](https://www.datacamp.com/statement-of-accomplishment/course/f7592de3baacfe42005a0ca25788d31693701ec1?raw=1)
 - Joining Data with pandas (DataCamp): [View Certificate](https://www.datacamp.com/statement-of-accomplishment/course/67579bcecc20e04a465c0c0dbd07c9ed4ea40595?raw=1)
