@@ -12,7 +12,7 @@
 ---
 
 ## Languages and Tools
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"> [C#](https://www.w3schools.com/cs/) 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"> [](https://www.w3schools.com/cs/) 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="30" height="30"> [.NET](https://dotnet.microsoft.com/) - 
  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL Server" width="30" height="30"> [MS SQL Server](https://www.microsoft.com/en-us/sql-server/) - 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="30" height="30"> [Bootstrap](https://getbootstrap.com) - 
